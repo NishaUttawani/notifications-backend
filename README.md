@@ -17,7 +17,7 @@ npm run start
 3. For running unit test cases, run the below command from the root folder.
 
 ```bash
-npm run mocha
+npm run test
 ```
 
 ## Available APIs

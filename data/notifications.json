@@ -1,0 +1,38 @@
+[
+    {
+        "_id": 1,
+        "img": "https://img.icons8.com/plasticine/100/000000/user.png",
+        "content": "Leonard has posted a new video",
+        "read": false
+    },
+    {
+        "_id": 2,
+        "img": "https://img.icons8.com/fluent/48/000000/person-female.png",
+        "content": "Penny commented on your status",
+        "read": true
+    },
+    {
+        "_id": 3,
+        "img": "https://img.icons8.com/office/16/000000/user-male-skin-type-5.png",
+        "content": "Shaldon and 4 others have commented on your life event",
+        "read": false
+    },
+    {
+        "_id": 4,
+        "img": "https://img.icons8.com/color/48/000000/person-female.png",
+        "content": "Amy is eating dinner with you and 30 others",
+        "read": true
+    },
+    {
+        "_id": 5,
+        "img": "https://img.icons8.com/office/16/000000/user-female-skin-type-3.png",
+        "content": "Priya and 3 others commented on your picture.",
+        "read": false
+    },
+    {
+        "_id": 6,
+        "img": "https://img.icons8.com/fluent/48/000000/administrator-male.png",
+        "content": "Raj commented on your status",
+        "read": true
+    }
+]
